@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1598406469085.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2389633780",
+    "id" : "50AB9D6F",
+    "lastKnownWriteTime" : 1598406066,
+    "last_content_update" : 1598406066,
+    "path" : "C:/Users/visor/OneDrive/Escritorio/datasciencecoursera/GettingCleaning/run_analysis.R",
+    "project_path" : "run_analysis.R",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
