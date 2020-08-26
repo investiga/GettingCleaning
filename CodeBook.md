@@ -3,7 +3,7 @@ El script run_analysis.R prepara los datos y mediante 5 pasos retorna una matriz
 1. Descarga de archivos desde:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-En este caso el descargue se hizo a través de página web y el archivo se ubicó en la carpeta de trabajo del proyecto en R.
+En este caso el descargue se hizo a través de página web. El archivo descargado se descomprimió y ubicó en la carpeta de trabajo del proyecto en R.
 
 2. Se carga la libreria tidyverse necesaria para la ejecución del script.
 library(tidyverse)
