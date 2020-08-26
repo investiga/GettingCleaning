@@ -64,5 +64,3 @@ avg_act_sub <- mean_std %>%
         summarise_all(funs(mean))
 
 write.table(avg_act_sub, "avg_act_sub.txt", row.name = FALSE)
-
-str(avg_act_sub)

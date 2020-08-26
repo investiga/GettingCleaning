@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "585633904",
+    "hash" : "128674239",
     "id" : "50AB9D6F",
-    "lastKnownWriteTime" : 1598407358,
-    "last_content_update" : 1598407358083,
+    "lastKnownWriteTime" : 1598407585,
+    "last_content_update" : 1598407586029,
     "path" : "C:/Users/visor/OneDrive/Escritorio/datasciencecoursera/GettingCleaning/run_analysis.R",
     "project_path" : "run_analysis.R",
     "properties" : {
-        "cursorPosition" : "68,0",
-        "scrollLine" : "53"
+        "cursorPosition" : "65,61",
+        "scrollLine" : "50"
     },
     "read_only" : false,
     "read_only_alternatives" : [
